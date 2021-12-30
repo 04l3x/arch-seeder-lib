@@ -1,0 +1,15 @@
+[package]
+name = "arch-seeder-lib"
+version = "0.1.0"
+authors = ["al3x al3x@al3x.io"]
+edition = "2021"
+description = "arch seeder lib"
+repository = "https://gitlab.com/al3x0s/arch-seeder-lib"
+license = "MIT OR GNU-GPL v3"
+
+[dependencies]
+
+[dependencies.serde]
+version = "1"
+features = [ "derive" ]
+
