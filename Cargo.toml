@@ -1,7 +1,7 @@
 [package]
 name = "arch-seeder-lib"
 version = "0.1.0"
-authors = ["al3x al3x@al3x.io"]
+authors = ["al3x alex.vacan.bala@gmail.com"]
 edition = "2021"
 description = "arch seeder lib"
 repository = "https://gitlab.com/al3x0s/arch-seeder-lib"
